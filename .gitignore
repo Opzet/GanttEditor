@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GanttEditor/CopilotIndices/17.13.92.3300
+/.vs/GanttEditor/FileContentIndex
+/.vs/GanttEditor/v17
+/GanttEditor/.vs/Blazor-Gantt-Sync/v17
+/GanttEditor/.vs/GanttEF/CopilotIndices/17.13.92.3300
+/GanttEditor/.vs/GanttEF/DesignTimeBuild
+/GanttEditor/.vs/GanttEF/FileContentIndex
+/GanttEditor/.vs/GanttEF/v17
+/GanttEditor/bin/Debug/net9.0
+/GanttEditor/.vs/ProjectEvaluation
+/GanttEditor/obj
+/GanttXMLService/GanttXMLService/obj
+/Gantt_Import_Sample/obj
+/.vs
